@@ -15,10 +15,8 @@ There are two attemps from this POC. Refer to these documents for more details a
   - propose to train extreme multi-label classifier using Fasttext
 
 ## Data files for re-producible
-1. Job add dataset (enrichment)
-2. Fine-tuned Bert model
-  - [Checkpoint model](https://drive.google.com/drive/folders/10PaeeYkG99xmbV-FUSfeFuIwSX3zYP4L?usp=sharing)
-  - [Job-ad datasets for Bert-XMLC and Fasttext-XMLC](https://drive.google.com/drive/folders/171NRFweLNltq_rmN9Mb7ETPkLzs_IV7R?usp=sharing)
+  1. [Checkpoint model](https://drive.google.com/drive/folders/10PaeeYkG99xmbV-FUSfeFuIwSX3zYP4L?usp=sharing)
+  2. [Job-ad datasets for Bert-XMLC and Fasttext-XMLC](https://drive.google.com/drive/folders/171NRFweLNltq_rmN9Mb7ETPkLzs_IV7R?usp=sharing)
 
 ## Reference:
 1. https://www.aclweb.org/anthology/2020.coling-main.513
