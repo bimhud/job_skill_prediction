@@ -130,3 +130,5 @@ dmypy.json
 # Exclude output folder
 output/
 dataset/
+pytorch_model.bin
+.bin
